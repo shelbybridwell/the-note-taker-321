@@ -1,3 +1,8 @@
+const express = require('express');
+const app = express();
+
+app.use();
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
